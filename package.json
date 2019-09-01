@@ -1,0 +1,25 @@
+{
+  "name": "ugilt.me",
+  "version": "1.0.0",
+  "description": "ugilt.me Homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Dette er en test');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeaceMonster/ugilt.me.git"
+  },
+  "keywords": [
+    "homepage"
+  ],
+  "author": "Mikkel Ugilt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeaceMonster/ugilt.me/issues"
+  },
+  "homepage": "https://github.com/PeaceMonster/ugilt.me#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
